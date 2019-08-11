@@ -90,7 +90,7 @@ logOut() {
       <div className='colornav'>
         <Navbar light expand="md">
             <Container >
-          <NavbarBrand ><Link style={{textDecoration:'none', color:'black'}} to='/'className="text-white"><img height='40px' src='https://monggovest.herokuapp.com/static/img/Logo-White@2x.39103d4.png' alt=''/></Link></NavbarBrand>
+          <NavbarBrand ><Link style={{textDecoration:'none', color:'black'}} to='/'className="text-white"><img height='40px' src='https://res.cloudinary.com/dcnhkq6qt/image/upload/v1565530245/Logo-White_2x.39103d4_cfagdx.png' alt=''/></Link></NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
